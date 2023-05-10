@@ -14,7 +14,7 @@
         <h3>Nina Alexsandra</h3>
         <h3>Email: ninaalexsandra99@gmail.com</h3>
         <h3>Phone: +62-878-8574-5276</h3>
-        <img src="Fotoo.jpeg">
+        <img src="https://storage.googleapis.com/dicoding-storage-24/Fotoo.jpeg">
     </div>
 </body>
 
